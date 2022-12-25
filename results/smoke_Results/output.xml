@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.1 (Python 3.10.4 on win32)" generated="20221225 12:00:31.798" rpa="true" schemaversion="3">
+<suite id="s1" name="Testcases" source="E:\Testing\Scheduling_tasks\Testcases.robot">
+<test id="s1-t1" name="01 smoke testcase" line="2">
+<kw name="Log" library="BuiltIn">
+<arg>this is a smoke test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:31.820" level="INFO">this is a smoke test</msg>
+<status status="PASS" starttime="20221225 12:00:31.820" endtime="20221225 12:00:31.820"/>
+</kw>
+<tag>smoke</tag>
+<status status="PASS" starttime="20221225 12:00:31.819" endtime="20221225 12:00:31.820"/>
+</test>
+<test id="s1-t2" name="02 smoke testcase" line="7">
+<kw name="Log" library="BuiltIn">
+<arg>this is a smoke test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:31.822" level="INFO">this is a smoke test</msg>
+<status status="PASS" starttime="20221225 12:00:31.822" endtime="20221225 12:00:31.822"/>
+</kw>
+<tag>smoke</tag>
+<status status="PASS" starttime="20221225 12:00:31.822" endtime="20221225 12:00:31.822"/>
+</test>
+<test id="s1-t3" name="03 smoke testcase" line="11">
+<kw name="Log" library="BuiltIn">
+<arg>this is a smoke test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:31.824" level="INFO">this is a smoke test</msg>
+<status status="PASS" starttime="20221225 12:00:31.824" endtime="20221225 12:00:31.824"/>
+</kw>
+<tag>smoke</tag>
+<status status="PASS" starttime="20221225 12:00:31.823" endtime="20221225 12:00:31.825"/>
+</test>
+<test id="s1-t4" name="04 smoke testcase" line="15">
+<kw name="Log" library="BuiltIn">
+<arg>this is a smoke test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:31.827" level="INFO">this is a smoke test</msg>
+<status status="PASS" starttime="20221225 12:00:31.826" endtime="20221225 12:00:31.827"/>
+</kw>
+<tag>smoke</tag>
+<status status="PASS" starttime="20221225 12:00:31.826" endtime="20221225 12:00:31.827"/>
+</test>
+<status status="PASS" starttime="20221225 12:00:31.800" endtime="20221225 12:00:31.828"/>
+</suite>
+<statistics>
+<total>
+<stat pass="4" fail="0" skip="0">All Tasks</stat>
+</total>
+<tag>
+<stat pass="4" fail="0" skip="0">smoke</stat>
+</tag>
+<suite>
+<stat pass="4" fail="0" skip="0" id="s1" name="Testcases">Testcases</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

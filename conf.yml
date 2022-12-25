@@ -1,0 +1,6 @@
+tasks:
+  system: robot -d ./results/system_Results -i system Testcases.robot
+  smoke: robot -d ./results/smoke_Results -i smoke Testcases.robot
+  regression: robot -d ./results/regression_Results -i regression Testcases.robot
+
+  

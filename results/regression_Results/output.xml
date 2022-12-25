@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.1 (Python 3.10.4 on win32)" generated="20221225 12:00:32.512" rpa="true" schemaversion="3">
+<suite id="s1" name="Testcases" source="E:\Testing\Scheduling_tasks\Testcases.robot">
+<test id="s1-t1" name="12 regression test" line="45">
+<kw name="Log" library="BuiltIn">
+<arg>this is a regression test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:32.532" level="INFO">this is a regression test</msg>
+<status status="PASS" starttime="20221225 12:00:32.532" endtime="20221225 12:00:32.532"/>
+</kw>
+<tag>regression</tag>
+<status status="PASS" starttime="20221225 12:00:32.531" endtime="20221225 12:00:32.532"/>
+</test>
+<test id="s1-t2" name="13 regression test" line="50">
+<kw name="Log" library="BuiltIn">
+<arg>this is a regression test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:32.534" level="INFO">this is a regression test</msg>
+<status status="PASS" starttime="20221225 12:00:32.534" endtime="20221225 12:00:32.534"/>
+</kw>
+<tag>regression</tag>
+<status status="PASS" starttime="20221225 12:00:32.533" endtime="20221225 12:00:32.535"/>
+</test>
+<test id="s1-t3" name="14 regression test" line="54">
+<kw name="Log" library="BuiltIn">
+<arg>this is a regression test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:32.535" level="INFO">this is a regression test</msg>
+<status status="PASS" starttime="20221225 12:00:32.535" endtime="20221225 12:00:32.535"/>
+</kw>
+<tag>regression</tag>
+<status status="PASS" starttime="20221225 12:00:32.535" endtime="20221225 12:00:32.536"/>
+</test>
+<test id="s1-t4" name="15 regression test" line="58">
+<kw name="Log" library="BuiltIn">
+<arg>this is a regression test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:32.538" level="INFO">this is a regression test</msg>
+<status status="PASS" starttime="20221225 12:00:32.538" endtime="20221225 12:00:32.538"/>
+</kw>
+<tag>regression</tag>
+<status status="PASS" starttime="20221225 12:00:32.537" endtime="20221225 12:00:32.538"/>
+</test>
+<test id="s1-t5" name="16 regression test" line="62">
+<kw name="Log" library="BuiltIn">
+<arg>this is a regression test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:32.540" level="INFO">this is a regression test</msg>
+<status status="PASS" starttime="20221225 12:00:32.540" endtime="20221225 12:00:32.540"/>
+</kw>
+<tag>regression</tag>
+<status status="PASS" starttime="20221225 12:00:32.538" endtime="20221225 12:00:32.540"/>
+</test>
+<status status="PASS" starttime="20221225 12:00:32.513" endtime="20221225 12:00:32.542"/>
+</suite>
+<statistics>
+<total>
+<stat pass="5" fail="0" skip="0">All Tasks</stat>
+</total>
+<tag>
+<stat pass="5" fail="0" skip="0">regression</stat>
+</tag>
+<suite>
+<stat pass="5" fail="0" skip="0" id="s1" name="Testcases">Testcases</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

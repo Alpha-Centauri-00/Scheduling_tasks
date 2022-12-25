@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.1 (Python 3.10.4 on win32)" generated="20221225 12:00:31.439" rpa="true" schemaversion="3">
+<suite id="s1" name="Testcases" source="E:\Testing\Scheduling_tasks\Testcases.robot">
+<test id="s1-t1" name="06 system test" line="20">
+<kw name="Log" library="BuiltIn">
+<arg>this is a system test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:31.457" level="INFO">this is a system test</msg>
+<status status="PASS" starttime="20221225 12:00:31.457" endtime="20221225 12:00:31.457"/>
+</kw>
+<tag>system</tag>
+<status status="PASS" starttime="20221225 12:00:31.456" endtime="20221225 12:00:31.457"/>
+</test>
+<test id="s1-t2" name="07 system test" line="24">
+<kw name="Log" library="BuiltIn">
+<arg>this is a system test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:31.459" level="INFO">this is a system test</msg>
+<status status="PASS" starttime="20221225 12:00:31.459" endtime="20221225 12:00:31.459"/>
+</kw>
+<tag>system</tag>
+<status status="PASS" starttime="20221225 12:00:31.458" endtime="20221225 12:00:31.459"/>
+</test>
+<test id="s1-t3" name="08 system test" line="28">
+<kw name="Log" library="BuiltIn">
+<arg>this is a system test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:31.461" level="INFO">this is a system test</msg>
+<status status="PASS" starttime="20221225 12:00:31.461" endtime="20221225 12:00:31.461"/>
+</kw>
+<tag>system</tag>
+<status status="PASS" starttime="20221225 12:00:31.460" endtime="20221225 12:00:31.462"/>
+</test>
+<test id="s1-t4" name="09 system test" line="32">
+<kw name="Log" library="BuiltIn">
+<arg>this is a system test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:31.462" level="INFO">this is a system test</msg>
+<status status="PASS" starttime="20221225 12:00:31.462" endtime="20221225 12:00:31.462"/>
+</kw>
+<tag>system</tag>
+<status status="PASS" starttime="20221225 12:00:31.462" endtime="20221225 12:00:31.462"/>
+</test>
+<test id="s1-t5" name="10 system test" line="37">
+<kw name="Log" library="BuiltIn">
+<arg>this is a system test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:31.463" level="INFO">this is a system test</msg>
+<status status="PASS" starttime="20221225 12:00:31.463" endtime="20221225 12:00:31.463"/>
+</kw>
+<tag>system</tag>
+<status status="PASS" starttime="20221225 12:00:31.463" endtime="20221225 12:00:31.463"/>
+</test>
+<test id="s1-t6" name="11 system test" line="41">
+<kw name="Log" library="BuiltIn">
+<arg>this is a system test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20221225 12:00:31.464" level="INFO">this is a system test</msg>
+<status status="PASS" starttime="20221225 12:00:31.464" endtime="20221225 12:00:31.464"/>
+</kw>
+<tag>system</tag>
+<status status="PASS" starttime="20221225 12:00:31.464" endtime="20221225 12:00:31.464"/>
+</test>
+<status status="PASS" starttime="20221225 12:00:31.440" endtime="20221225 12:00:31.466"/>
+</suite>
+<statistics>
+<total>
+<stat pass="6" fail="0" skip="0">All Tasks</stat>
+</total>
+<tag>
+<stat pass="6" fail="0" skip="0">system</stat>
+</tag>
+<suite>
+<stat pass="6" fail="0" skip="0" id="s1" name="Testcases">Testcases</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
